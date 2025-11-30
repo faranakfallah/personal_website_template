@@ -1,12 +1,12 @@
 ---
 layout: posts
-title: Painting 
+title: "Painting" 
 ---
 
 
 This post is about a **painting** and its **code**.
 
-![The Painting](/assets/images/TREEPAINTING.jpg ""https://i.ibb.co/JWVb6cst/TREE-PAINTING.png"")
+![The Painting](https://i.ibb.co/JWVb6cst/TREE-PAINTING.png)
 
 ```
 import turtle
