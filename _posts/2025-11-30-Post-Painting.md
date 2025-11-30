@@ -6,7 +6,7 @@ title: Painting
 
 This post is about a **painting** and its **code**.
 
-![The Painting](/assets/images/TREEPAINTING.jpg)
+![The Painting](/assets/images/TREEPAINTING.jpg ""https://i.ibb.co/JWVb6cst/TREE-PAINTING.png"")
 
 ```
 import turtle
