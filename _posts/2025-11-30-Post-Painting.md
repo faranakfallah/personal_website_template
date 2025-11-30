@@ -6,7 +6,7 @@ title: "Painting"
 
 This post is about a **painting** and its **code**.
 
-![The Painting](https://i.ibb.co/JWVb6cst/TREE-PAINTING.png)
+![The Painting](https://i.ibb.co/Xr4mtzQ7/TREE-PAINTING.png)
 
 ```
 import turtle
