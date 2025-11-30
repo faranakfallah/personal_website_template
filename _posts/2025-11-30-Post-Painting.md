@@ -4,10 +4,9 @@ title: Painting
 ---
 
 
-# PAINTING
-
 This post is about a **painting** and its **code**.
 
+![The Painting](/assets/images/TREEPAINTING.png "The Painting")
 
 ```
 import turtle
