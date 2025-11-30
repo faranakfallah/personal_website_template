@@ -9,7 +9,7 @@ title: Painting
 This post is about a **painting** and its **code**.
 
 
-`import turtle
+`{import turtle
 from turtle import *
 
 
@@ -100,4 +100,4 @@ cloud_circle(-160,150,20)
 
 
 
-turtle.mainloop()`
+turtle.mainloop()}`
