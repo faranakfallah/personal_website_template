@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Faranak Fallah"
-  avatar           : ""
+  avatar           : "/assets/images/2.jpg"
   bio              : I'm a student.
   location         : "Tehran"
   email            : fallahfaranak99@gmail.com
