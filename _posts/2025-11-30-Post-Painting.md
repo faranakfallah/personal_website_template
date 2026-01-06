@@ -6,7 +6,7 @@ title: "Painting"
 
 This post is about a **painting** and its **code**.
 
-![The Painting](https://fv5-7.files.fm/thumb_show.php?i=d8uvpvfqfp&view&v=1&PHPSESSID=530576300acc8d2a585d78f79bb7b612e18b61d8)
+![The Painting](/assets/images/TREEPAINTING.jpg)
 
 ```
 import turtle
